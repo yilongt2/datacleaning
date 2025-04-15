@@ -3,7 +3,7 @@ This project is for the IS 537 data cleaning project for the learning purpose
 
 Thanks for your time to check my data work here. I organized these three main parts in different files since I used three different combined softwares to do this job.
 
-PART 1 Publicly-Listed Banks
+PART 1 Publicly-Listed GDP and Education
 
 	-I used tableau prep to clean the data in order to clean the data source and join the different table. Then, I checked the simliar rows to eliminate typos, which is very common. W hile we conduct research but actually it has typos in countries, finally I create the field named as master file.
 

@@ -1,0 +1,7 @@
+
+EDA Summary Log:
+- Dataset: GDP Per Capita
+- Total Countries: 210
+- Year Range: Country Code to Unnamed: 37
+- Missing Values: 6083
+- Outliers Detected: Z-score based threshold applied on 2020 values

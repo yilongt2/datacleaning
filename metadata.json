@@ -1,0 +1,24 @@
+{
+    "dataset_name": "Global Education and Economic Indicators",
+    "source": "Compiled from World Bank, OECD, IMF sources",
+    "sheets_included": [
+        "Summary Statitics ",
+        "GDP Per Capita",
+        "Access to Electricity (% pop)",
+        "Undernurishment (% pop)",
+        "Primary School Enrollment (%net",
+        "Secondary School Enrollment (%n",
+        "Tertiary School Enrollment (%g)",
+        "Individuals Using Internet (%)",
+        "Pupil-Teacher Ratio (Primary)",
+        "Pupil-Teacher Ratio (Secondary)",
+        "Pupil-Teacher Ratio (Tertiary)",
+        "Trained Teacher % Primary",
+        "Trained Teacher % Secondary",
+        "Gov. Spending on Edu (% of GDP)",
+        "Literacy Rates (Age 15+)"
+    ],
+    "creator": "Tedery Tan",
+    "last_updated": "2025-05-11",
+    "description": "This dataset integrates indicators related to economic development and education outcomes across countries and years. Used in IS537 data cleaning project."
+}
